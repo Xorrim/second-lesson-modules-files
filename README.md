@@ -51,7 +51,7 @@ The file contains 120 characters
 
 ---
 
-# Task — Create a Log File
+# Task 2 — Create a Log File
 
 Write a program that:
 
@@ -73,7 +73,7 @@ Each time the script runs, a new line should be added to the file.
 
 ---
 
-# Task — Replace Text in a File
+# Task 3 — Replace Text in a File
 
 Create a function that takes three arguments:
 
